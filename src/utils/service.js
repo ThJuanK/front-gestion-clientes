@@ -1,4 +1,4 @@
-const url = 'http://localhost:8000/'
+const url = 'https://api-clientes-mjz1.onrender.com/'
 import axios from 'axios'
 
 export const service = () => {
